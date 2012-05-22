@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Html5shivRails::VERSION
   s.authors     = ["David Morton"]
   s.email       = ["mortonda@dgrmm.net"]
-  s.homepage    = "http://somewhere"
+  s.homepage    = "https://github.com/dgm/html5shiv-rails"
   s.summary     = "A rails gem theat bundles the html5-shiv in a gem"
   s.description = "While it is easy to just copy from the original github site, having it in a gem file should be even easier!"
 
