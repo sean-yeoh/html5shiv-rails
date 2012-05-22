@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "A rails gem theat bundles the html5-shiv in a gem"
   s.description = "While it is easy to just copy from the original github site, having it in a gem file should be even easier!"
 
-  s.files = Dir["{vendor,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{vendor,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency "railties", ">= 3.2.0", "< 5.0"
   s.require_path = 'lib'
