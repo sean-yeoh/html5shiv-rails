@@ -2,7 +2,7 @@
 
 Html5hivRails simply provides the [html5him.js and html5shim-printshim.js](https://github.com/aFarkas/html5shiv) libraries in a rails engine form.  
 
-## Rails 3.1 and up
+## Rails 3.2 and up
 
 For Rails 3.1 and greater, the files will be added to the asset pipeline and available for you to use.  You have the option of `html5shiv.js` and `html5shiv-printshiv.js`, depending on if you need to support printing.
 
@@ -11,7 +11,7 @@ For Rails 3.1 and greater, the files will be added to the asset pipeline and ava
 
 Just add this to your Gemfile:
 
-    gem 'html5shiv'
+    gem 'html5shiv-rails'
 
 and run
 
