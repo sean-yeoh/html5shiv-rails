@@ -1,0 +1,3 @@
+= Html5shivRails
+
+This project rocks and uses MIT-LICENSE.
