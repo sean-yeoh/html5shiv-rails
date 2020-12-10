@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
 
   s.files = Dir["{vendor,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
 
-  s.add_dependency "railties", ">= 3.2.0", "< 5.0"
+  s.add_dependency "railties", ">= 3.2.0"
   s.require_path = 'lib'
   # s.add_dependency "jquery-rails"
 
